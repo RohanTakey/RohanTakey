@@ -67,7 +67,8 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpO
  ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohantakey&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=648EDD&border=DD2262)](https://git.io/streak-stats)          
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohantakey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohantakey&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=648EDD&border=DD2262)](https://git.io/streak-stats)           -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohantakey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
