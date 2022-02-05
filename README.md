@@ -26,12 +26,12 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpO
 - 🔭 I’m currently exploring Data
 - 🌱 I’m currently learning Data Science<!--- 🤔 I’m looking for help with--> 
 - 💬 Ask me about data science queries in python
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RohanTakey-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/rohan-takey-240277129/")
-<!-- <div id="badges">
+- 📫 How to reach me:
+<div id="badges">
   <a href=>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div> -->
+</div>
 
 ---
 
