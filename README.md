@@ -28,8 +28,8 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpO
 - 💬 Ask me about data science queries in python
 - 📫 How to reach me:
 <div id="badges">
-  <a href=>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/rohan-takey-240277129/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rohan Takey LinkedIn"/>
   </a>
 </div>
 
