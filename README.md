@@ -6,12 +6,13 @@
 <h1 align="center">
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I am Rohan Takey
 </h1>
  
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://en.bloggif.com/tmp/febd18fc04127dbd8e1ee06f14c6d41b/text.gif?1646140690" />
 </h1>
- 
+  -->
 <div align="center">
   <img src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47oww6hkv8fgqfc8hl8zlq4gxwtunpgnhon0avh1gl&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
